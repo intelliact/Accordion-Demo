@@ -1,0 +1,7 @@
+Assume you don’t have access to jQuery. Take a look at the jQUery UI Accordion widget (http://jqueryui.com/demos/accordion/#default). Implement this Accordion widget with your own JavaScript code.
+
+Add animation when someone collapses or expands a section, basic CSS styling and appropriate use of HTML. Populate content of each section in the accordion dynamically using JavaScript to access a server-side PHP script that provides current date and time.
+
+This exercise shouldn’t take more than 3 hours. The solution doesn’t need to be perfect but needs to demonstrate your problem solving skills.
+
+Please create a GitHub project, push your code, and send us the URL.
